@@ -1,10 +1,10 @@
 package com.carlosbravo.backend;
 
+import com.carlosbravo.backend.controllers.CalculadoraController;
+import com.carlosbravo.backend.models.CalculadoraModel;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CalculadoraControllerTest {
 
